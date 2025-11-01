@@ -1,0 +1,80 @@
+﻿ID;Source;Change;Significado de Cambio;Target
+ID200;Peteĩ ko'ẽme ombohovái hikuái;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Peteĩ ko'ẽme nombohováiri hikuái
+ID201;Peteĩ ko'ẽme ombohovái hikuái;PERSON:2_PL; Segunda persona del plural (vosotros/ustedes);Peteĩ ko'ẽme pembohovái 
+ID202;Peteĩ ko'ẽme ombohovái hikuái;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Peteĩ ko'ẽme ñambohovái 
+ID203;Peteĩ ko'ẽme ombohovái hikuái;PERSON:1_PL_EXC; Primera persona del plural exclusivo (excluye al interlocutor);Peteĩ ko'ẽme rombohovái 
+ID204;Ko’ã tembi’u ombojy jepe’a ratarendýpe;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ko’ã tembi’u ñambojy jepe’a ratarendýpe
+ID205;Ko’ã tembi’u ombojy jepe’a ratarendýpe;PERSON:1_PL_EXC; Primera persona del plural exclusivo (excluye al interlocutor);Ko’ã tembi’u rombojy jepe’a ratarendýpe
+ID206;Ko’ã tembi’u ombojy jepe’a ratarendýpe;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Ko’ã tembi’u nombojýi jepe’a ratarendýpe
+ID207;Ko’ã tembi’u ombojy jepe’a ratarendýpe;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Ko’ã tembi’u ombojýta jepe’a ratarendýpe
+ID208;Ko’ã tembi’u ombojy jepe’a ratarendýpe;TENSE:PAS_PLU; Pretérito pluscuamperfecto (partícula -va'ekue);Ko’ã tembi’u ombojyva'ekue jepe’a ratarendýpe
+ID209;Che ndahecháikuri peteĩ óga;TYPE:AFF; Forma afirmativa de la oración;Che ndahecháikuri peteĩ óga
+ID210;Che ndahecháikuri peteĩ óga;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Che ndahechai'aína peteĩ óga
+ID211;Che ndahecháikuri peteĩ óga;TENSE:PRE_SIM; Presente Simple (sin partícula de tiempo);Che ahecha peteĩ óga
+ID212;Che ndahecháikuri peteĩ óga;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde nderehecháikuri peteĩ óga
+ID213;Ha'ekuéra oisãmbyhy;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Ha'ekuéra noisãmbyhýi
+ID214;Ha'ekuéra oisãmbyhy;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Ha'ekuéra oisãmbyhyhína
+ID215;Ha'ekuéra oisãmbyhy;TENSE:PAS_PLU; Pretérito pluscuamperfecto (partícula -va'ekue);Ha'ekuéra oisãmbyhyva'ekue
+ID216;Ha'ekuéra oisãmbyhy;ASPECT:INM; Aspecto Intermitente, partícula de aspecto -  Ikóni;Ha'ekuéra oisãmbyhyhikóni
+ID217;Ha'ekuéra oisãmbyhy;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ñande ñaisãmbyhy
+ID218;Ha'ekuéra oisãmbyhy;PERSON:1_PL_EXC; Primera persona del plural exclusivo (excluye al interlocutor);Ore roisãmbyhy
+ID219;Peẽ ndapekarumo'ãi;TYPE:AFF; Forma afirmativa de la oración;Peẽ pekarúta
+ID220;Peẽ ndapekarumo'ãi;PERSON:3_PL; Tercera persona del plural (ellos/ellas);Ha'ekuéra ndokarumo'ãi
+ID221;Peẽ ndapekarumo'ãi;PERSON:1_SI; Primera persona del singular (yo);Che ndakarumo'ãi
+ID222;Peẽ ndapekarumo'ãi;TENSE:PAS_REC; Pretérito Reciente (partícula -kuri);Peẽ ndapekarúikuri
+ID223;Peẽ ndapekarumo'ãi;TENSE:PRE_SIM; Presente Simple (sin partícula de tiempo);Peẽ ndapekarúi 
+ID224;Ore ndoro'umo'ãi;TYPE:AFF; Forma afirmativa de la oración;Ore ro'u
+ID225;Ore ndoro'umo'ãi;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ñande ja'u
+ID226;Ore ndoro'umo'ãi;PERSON:2_PL; Segunda persona del plural (vosotros/ustedes);Peẽ pe'u
+ID227;Ore ndoro'umo'ãi;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde re'u
+ID228;Ore ndoro'umo'ãi;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Ore ro'uhína
+ID229;Umi kuaaukaharakuéra oñomongetákuri;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Umi kuaaukaharakuéra noñomongetáikuri
+ID230;Umi kuaaukaharakuéra oñomongetákuri;PERSON:3_SI; Tercera persona del singular (él/ella);Ha'e oñomongetákuri
+ID231;Umi kuaaukaharakuéra oñomongetákuri;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Umi kuaaukaharakuéra oñomongetáta
+ID232;Umi kuaaukaharakuéra oñomongetákuri;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Umi kuaaukaharakuéra oñomongetahína
+ID233;Umi kuaaukaharakuéra oñomongetákuri;TENSE:PAS_IMP; Tiempo pasado imperfecto;Umi kuaaukaharakuéra oñomongetámi
+ID234;Umi kuaaukaharakuéra oñomongetákuri;ASPECT:INM; Aspecto Intermitente, partícula de aspecto -  Ikóni;Umi kuaaukaharakuéra oñomongetahikóni
+ID235;Ha'e oguatámi;TYPE:AFF; Forma afirmativa de la oración;Ha'e oguatámi
+ID236;Ha'e oguatámi;TENSE:PAS_REC; Pretérito Reciente (partícula -kuri);Ha'e oguatákuri
+ID237;Ha'e oguatámi;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde reguatámi
+ID238;Ha'e oguatámi;PERSON:1_SI; Primera persona del singular (yo);Che aguatámi
+ID239;Ha'e oguatámi;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ñande jaguatámi
+ID240;Ha'e oguatámi;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Ha'e oguatáta
+ID241;Ha'e omokañýkuri kuãirũ;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Ha'e nomokañýkuri kuãirũ
+ID242;Ha'e omokañýkuri kuãirũ;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde remokañýkuri kuãirũ
+ID243;Ha'e omokañýkuri kuãirũ;PERSON:2_PL; Segunda persona del plural (vosotros/ustedes);Peẽ pemokañýkuri kuãirũ
+ID244;Ha'e omokañýkuri kuãirũ;PERSON:1_SI; Primera persona del singular (yo);Che amokañýkuri kuãirũ
+ID245;Ha'e omokañýkuri kuãirũ;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Ha'e omokañýta kuãirũ
+ID246;Ha'e omokañýkuri kuãirũ;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Ha'e omokañyhína kuãirũ
+ID247;Peẽ napemongyráikuri;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Peẽ napemongyramo'ãi
+ID248;Peẽ napemongyráikuri;TENSE:PRE_SIM; Presente Simple (sin partícula de tiempo);Peẽ napemongyrái
+ID249;Peẽ napemongyráikuri;PERSON:3_PL; Tercera persona del plural (ellos/ellas);Ha'ekuéra nomongyráikuri
+ID250;Peẽ napemongyráikuri;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ñande nañamongyráikuri
+ID251;Peẽ napemongyráikuri;PERSON:1_PL_EXC; Primera persona del plural exclusivo (excluye al interlocutor);Ore noromongyráikuri
+ID252;Peẽ napemongyráikuri;TYPE:AFF; Forma afirmativa de la oración;Peẽ pemongyra
+ID253;Peẽ pejupámi;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde rejúmi
+ID254;Peẽ pejupámi;PERSON:3_SI; Tercera persona del singular (él/ella);Ha'e oúmi
+ID255;Peẽ pejupámi;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Ha’e ndoúimi
+ID256;Peẽ pejupámi;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Ha’e ouhína
+ID257;Peẽ pejupámi;ASPECT:INM; Aspecto Intermitente, partícula de aspecto -  Ikóni;Ha’e ouhikóni
+ID258;Peẽ pejupámi;PERSON:1_PL_EXC; Primera persona del plural exclusivo (excluye al interlocutor);Ore rojúmi
+ID259;Peẽ pejupámi;PERSON:1_SI; Primera persona del singular (yo);Che ajúmi
+ID260;Ore norombyaírikuri;TYPE:AFF; Forma afirmativa de la oración;Ore rombyaíkuri
+ID261;Ore norombyaírikuri;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta); Ore rombyaíta
+ID262;Ore norombyaírikuri;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ñande ñambyaírikuri
+ID263;Ore norombyaírikuri;PERSON:1_SI; Primera persona del singular (yo);Che nambyaírikuri
+ID264;Ore norombyaírikuri;PERSON:2_PL; Segunda persona del plural (vosotros/ustedes);Peẽ napembyaírikuri
+ID265;Ore norombyaírikuri;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde nerembyaírikuri
+ID266;Peẽ peñomongetákuri;TENSE:PAS_REC; Pretérito Reciente (partícula -kuri);Peẽ peñomongetákuri
+ID267;Peẽ peñomongetákuri;PERSON:1_PL_INC; Primera persona del plural inclusiva (incluye al interlocutor);Ñande ñañomongetákuri
+ID268;Peẽ peñomongetákuri;PERSON:1_PL_EXC; Primera persona del plural exclusivo (excluye al interlocutor);Ore roñomongetákuri
+ID269;Peẽ peñomongetákuri;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Peẽ peñomongetáta
+ID270;Peẽ peñomongetákuri;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Peẽ napeñomongetái
+ID271;Peẽ peñomongetákuri;TENSE:PRE_SIM; Presente Simple (sin partícula de tiempo);Peẽ peñomongeta
+ID272;Ha'e opovyvýkuri;TYPE:NEG; Forma negativa de la oración (circunfijo nd--i);Ha’e ndopovyvýikuri
+ID273;Ha'e opovyvýkuri;ASPECT:IPFV; Aspecto imperfectivo, partícula de aspecto - hína;Ha’e opovyvyhínakuri
+ID274;Ha'e opovyvýkuri;PERSON:2_SI; Segunda persona del singular (tú/vos);Nde repovyvýkuri
+ID275;Ha'e opovyvýkuri;PERSON:1_SI; Primera persona del singular (yo);Che apovyvýkuri
+ID276;Ha'e opovyvýkuri;TENSE:FUT_SIM; Tiempo futuro simple (partícula -ta);Ha’e opovyvýta
+ID277;Ha'e opovyvýkuri;TENSE:PAS_PLU; Pretérito pluscuamperfecto (partícula -va'ekue);Ha’e opovyvyva’ekue
+ID278;Ha'e opovyvýkuri;TENSE:PAS_IMP; Tiempo pasado imperfecto;Ha’e opovyvými

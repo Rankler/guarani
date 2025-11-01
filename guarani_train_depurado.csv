@@ -1,0 +1,179 @@
+﻿ID;Source;Change;Target
+ID01;Ha'e ombojerékuri umi ao;PERSON:2_SI;Nde rembojere umi ao
+ID02;Ha'e ombojerékuri umi ao;TYPE:NEG;Ha’e ndombojeréi umi ao
+ID03;Ha'e ombojerékuri umi ao;ASPECT:IPFV;Ha’e ombojerehína umi ao
+ID04;Umi chokokue ombotýkuri pende rape;TYPE:NEG;Umi chokokue nombotýikuri pende rape
+ID05;Umi chokokue ombotýkuri pende rape;ASPECT:IPFV;Umi chokokue ombotyhína pende rape
+ID06;Umi chokokue ombotýkuri pende rape;PERSON:3_SI;Ha’e ombotýkuri pende rape
+ID07;Umi chokokue ombotýkuri pende rape;TENSE:FUT_SIM;Umi chokokue ombotýta pende rape
+ID08;Umi chokokue ombotýkuri pende rape;TENSE:PAS_PLU;Umi chokokue ombotyva’ekue pende rape
+ID09;Umi chokokue ombotýkuri pende rape;TENSE:PRE_SIM;Umi chokokue omboty pende rape
+ID10;Peẽ ndapejapóimi óga yvate;PERSON:1_PL_INC;Ñande ndajajapói óga yvate
+ID11;Peẽ ndapejapóimi óga yvate;PERSON:1_PL_EXC;Ore ndorojapói óga yvate
+ID12;Peẽ ndapejapóimi óga yvate;TENSE:PAS_REC;Peẽ pejapókuri óga yvate
+ID13;Peẽ ndapejapóimi óga yvate;TENSE:PRE_SIM;Peẽ pejapo óga yvate
+ID14;Peẽ ndapejapóimi óga yvate;TYPE:AFF;Peẽ ndapejapóikuri óga yvate
+ID15;Peẽ ndapejapóimi óga yvate;PERSON:3_PL;Ha’ekuéra ndojapóikuri óga yvate
+ID16;Peẽ ndapejapóimi óga yvate;PERSON:2_SI;Nde nderejapóikuri óga yvate
+ID17;Ku karai ijyvatéva;TENSE:FUT_SIM;Ku karai ijyvatétava
+ID18;Ku karai ijyvatéva;TYPE:NEG;Ku karai ndaijyvatéiva
+ID19;Ku karai ijyvatéva;ASPECT:IPFV;Ku karai ijyvatevahína
+ID20;Umi mbói oñorãirõ;ASPECT:IPFV;Umi mbói oñorãirõhína
+ID21;Umi mbói oñorãirõ;ASPECT:INM;Umi mbói oñorãirõhikóni
+ID22;Umi mbói oñorãirõ;PERSON:3_PL;Ha'ekuéra oñorãirõ
+ID23;Umi mbói oñorãirõ;TENSE:PAS_IMP;Umi mbói oñorãirõmi
+ID24;Umi mbói oñorãirõ;TENSE:FUT_SIM;Umi mbói oñorãirõta
+ID25;Umi mbói oñorãirõ;TYPE:NEG;Umi mbói noñorãirõmo'ãi
+ID26;Temirendukuéra omongakuaa;PERSON:3_SI;Ha’e omongakuaa
+ID27;Temirendukuéra omongakuaa;TENSE:FUT_SIM;Temirendukuéra omongakuaáta
+ID28;Temirendukuéra omongakuaa;TYPE:NEG;Temirendukuéra nomongakuaái
+ID29;Temirendukuéra omongakuaa;ASPECT:IPFV;Temirendukuéra omongakuaahína
+ID30;Temirendukuéra omongakuaa;TENSE:PAS_IMP;Temirendukuéra omongakuaámi
+ID31;Pohãnohára ikatupyry;TENSE:PRE_SIM;Pohãnohára ikatupyry
+ID32;Pohãnohára ikatupyry;TYPE:AFF;Pohãnohára ikatupyry
+ID33;Pohãnohára ikatupyry;TENSE:PAS_REC;Pohãnohára ikatupyrýkuri
+ID34;Pohãnohára ikatupyry;PERSON:3_PL;Ha'ekuéra ikatupyry
+ID35;Pohãnohára ikatupyry;TENSE:PAS_PLU;Pohãnohára ikatupyryva'ekue
+ID36;Haa'e ojarákuri y;TYPE:NEG;Ha’e ndojaráikuri y
+ID37;Haa'e ojarákuri y;PERSON:2_SI;Nde rejarákuri y
+ID38;Haa'e ojarákuri y;PERSON:1_SI;Che ajarákuri y
+ID39;Haa'e ojarákuri y;TENSE:FUT_SIM;Ha’e ojaráta y
+ID40;Haa'e ojarákuri y;ASPECT:IPFV;Ha’e ojarahína y
+ID41;Chéngo ndaikuaái upévape.;TYPE:AFF;Chéngo ndaikuaái upévape.
+ID42;Chéngo ndaikuaái upévape.;TENSE:PAS_REC;Chéngo ndaikuaái upévape.
+ID43;Chéngo ndaikuaái upévape.;PERSON:2_SI;Chéngo ndaikuaái upévape.
+ID44;Ha'ekuéra naiñemoñaréikuri;TYPE:AFF;Ha’ekuéra iñemoñarékuri
+ID45;Ha'ekuéra naiñemoñaréikuri;TENSE:FUT_SIM;Ha’ekuéra iñemoñaréta
+ID46;Ha'ekuéra naiñemoñaréikuri;PERSON:1_PL_INC;Ñande ñaneñemoñarékuri
+ID47;Ha'ekuéra naiñemoñaréikuri;PERSON:1_PL_EXC;Ore oreñemoñarékuri
+ID48;Ha'ekuéra naiñemoñaréikuri;PERSON:2_PL;Peẽ peñemoñarékuri
+ID49;Ha'ekuéra naiñemoñaréikuri;TENSE:PRE_SIM;Ha’ekuéra iñemoñare
+ID50;Apurahéikuri;TYPE:NEG;Ndapurahéirikuri
+ID51;Apurahéikuri;ASPECT:IPFV;Apuraheihína
+ID52;Apurahéikuri;TENSE:PAS_PLU;Apuraheiva'ekue
+ID53;Apurahéikuri;TENSE:FUT_SIM;Apurahéita
+ID54;Apurahéikuri;PERSON:3_PL;Ha'ekuéra opurahéikuri
+ID55;He'i ka'i ruvicha ta'yrakuérape;PERSON:1_SI;Ha’e  ta’yrakuérape
+ID56;He'i ka'i ruvicha ta'yrakuérape;PERSON:2_SI;Nde ere ta’yrakuérape
+ID57;He'i ka'i ruvicha ta'yrakuérape;TYPE:NEG;Nde'íri ka’i ruvicha ta’yrakuérape
+ID58;Che namombe'úi;TENSE:PRE_SIM;Che namombe’úi
+ID59;Che namombe'úi;TYPE:AFF;Che amombe’u
+ID60;Che namombe'úi;TENSE:PAS_IMP;Che namombe’úimi
+ID61;Che namombe'úi;PERSON:2_SI;Nde neremombe’úi
+ID62;Che namombe'úi;PERSON:1_PL_EXC;Ñande nañamombe’úi
+ID63;Ojura peteĩ vaka;TYPE:AFF;Ojura peteĩ vaka
+ID64;Ojura peteĩ vaka;TENSE:PAS_REC;Ojurákuri peteĩ vaka
+ID65;Ojura peteĩ vaka;TENSE:PAS_IMP;Ojurámi peteĩ vaka
+ID66;Ojura peteĩ vaka;TENSE:PAS_PLU;Ojurava’ekue peteĩ vaka
+ID67;Ojura peteĩ vaka;TENSE:PRE_SIM;Ojura peteĩ vaka
+ID68;Che ajavy'imi heta mba'épe;TYPE:NEG;Che ndajavy'íri heta mba’épe
+ID69;Che ajavy'imi heta mba'épe;ASPECT:IPFV;Che ajavy’i'aína heta mba’épe
+ID70;Che ajavy'imi heta mba'épe;TENSE:FUT_SIM;Che ajavy'imíta heta mba’épe
+ID71;Che ajavy'imi heta mba'épe;TENSE:PRE_SIM;Che ajavy'imi heta mba’épe
+ID72;Che ajavy'imi heta mba'épe;PERSON:2_PL;Peẽ pejavy'imi heta mba’épe
+ID73;Che ajavy'imi heta mba'épe;PERSON:1_SI_INC;Ñande jajavy'imi heta mba’épe 
+ID74;Che ajavy'imi heta mba'épe;PERSON:1_SI_EXC;Ore rojavy'imi heta mba’épe
+ID75;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;TYPE:AFF;Ore roikuave’ẽ umi tembi’ukuéra pytagua
+ID76;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;ASPECT:IPFV;Ore noroikuave’ẽihína umi tembi’ukuéra pytagua
+ID77;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;ASPECT:INM;Ore noroikuave’ẽihikóni umi tembi’ukuéra pytagua
+ID78;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;TENSE:PAS_IMP;Ore noroikuave’ẽimi umi tembi’ukuéra pytagua
+ID79;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;PERSON:1_PL_INC;Ñande nañaikuave’ẽi umi tembi’ukuéra pytagua
+ID80;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;PERSON:1_SI;Che naikuave’ẽi umi tembi’ukuéra pytagua
+ID81;Ore ndoroikuave’ẽi umi tembi’ukuéra pytagua;PERSON:2_PL;Peẽ ndaikuave’ẽi umi tembi’ukuéra pytagua
+ID82;Nde reñembosaraireína;ASPECT:-;Che añembosarái
+ID83;Nde reñembosaraireína;TYPE:NEG;Nde nereñembosaráiri
+ID84;Nde reñembosaraireína;PERSON:1_SI;Che añembosarai'aína
+ID85;Nde reñembosaraireína;ASPECT:INM;Nde reñembosaraireikóni
+ID86;Nde reñembosaraireína;TENSE:FUT_SIM;Nde reñembosaráita
+ID87;Nde reñembosaraireína;TENSE:PAS_REC;Nde reñembosaráikuri
+ID88;Nde reñembosaraireína;PERSON:3_PL;Ha'ekuéra oñembosaraihína
+ID89;Amo oñemúva osapukáikuri;TYPE:NEG;Amo oñemúva ndosapukáirikuri
+ID90;Amo oñemúva osapukáikuri;PERSON:3_PL;Ha'e osapukáikuri
+ID91;Amo oñemúva osapukáikuri;TENSE:FUT_SIM;Amo oñemúva osapukáta 
+ID92;Amo oñemúva osapukáikuri;ASPECT:IPFV;Amo oñemúva osapukaihína
+ID93;Amo oñemúva osapukáikuri;TENSE:PAS_PLU;Amo oñemúva osapukaiva’ekue
+ID94;Jaguarete katu itáicha okirirĩ.;PERSON:1_SI;Che itáicha akirirĩ 
+ID95;Jaguarete katu itáicha okirirĩ.;PERSON:2_SI;Nde itáicha rekirirĩ 
+ID96;Jaguarete katu itáicha okirirĩ.;TYPE:NEG;Jaguarete katu itáicha nokirirĩri
+ID97;Jaguarete katu itáicha okirirĩ.;TENSE:FUT_SIM;Jaguarete katu itáicha okiriríta
+ID98;Pakova roguépe omo’â hembi’ukuéra.;TYPE:NEG;Pakova roguépe che namo’ãi che rembi’ukuéra
+ID99;Pakova roguépe omo’â hembi’ukuéra.;PERSON:2_PL;Pakova roguépe peẽ pemo’ã pene rembi’ukuéra
+ID100;Pakova roguépe omo’â hembi’ukuéra.;PERSON:2_SI;Pakova roguépe nde remo’ã pene rembi’ukuéra
+ID101;Pakova roguépe omo’â hembi’ukuéra.;PERSON:1_SI;Pakova roguépe che namo’ãi pene hembi’ukuéra
+ID102;Ha'e ojupíkuri;PERSON:1_SI;Che ajupíkuri
+ID103;Ha'e ojupíkuri;PERSON:1_PL_INC;Ñande jajupíkuri
+ID104;Ha'e ojupíkuri;ASPECT:IPFV;Ha'e ojupihína
+ID105;Ha'e ojupíkuri;ASPECT:INM;Ha'e ojupihikóni
+ID106;Ha'e ojupíkuri;TENSE:FUT_SIM;Ha'e ojupíta
+ID107;Ha'e ojupíkuri;PERSON:2_SI;Nde rejupíkuri
+ID108;Ha'e ojupíkuri;TYPE:NEG;Ha'e ndojupíri
+ID109;Che mba’éma ko ykua;PERSON:2_SI;Ne mba’éma ko ykua
+ID110;Che mba’éma ko ykua;PERSON:1_SI_INC;Ñane mba’éma ko ykua
+ID111;Che mba’éma ko ykua;PERSON:1_SI_EXC;Ore mba’éma ko ykua
+ID112;Che mba’éma ko ykua;TYPE:NEG;Nachemba’éi ko ykua
+ID113;Che mba’éma ko ykua;TENSE:FUT_SIM;Che mba’éta ko ykua
+ID114;Ha'e nembojarúta;TYPE:AFF;Ha’e nembojarúta
+ID115;Ha'e nembojarúta;PERSON:2_SI;Nde rembojarúta
+ID116;Ha'e nembojarúta;TENSE:PAS_REC;Ha’e nembojarúkuri
+ID117;Ha'e nembojarúta;ASPECT:IPFV;Ha’e nembojaruhína
+ID118;Ha'e nembojarúta;PERSON:1_SI;Che rombojarúta
+ID119;Ha’e oguapy;PERSON:3_PL;Ha’ekuéra oguapy
+ID120;Ha’e oguapy;TYPE:NEG;Ha’e ndoguapýi
+ID121;Ha’e oguapy;PERSON:1_SI;Che aguapy
+ID122;Ha’e oguapy;PERSON:2_SI;Nde reguapy
+ID123;Ha’e oguapy;PERSON:2_PL;Peẽ peguapy
+ID124;Ha’e oguapy;TENSE:FUT_SIM;Ha’e oguapýta
+ID125;Ha’e oguapy;TENSE:PAS_PLU;Ha’e oguapyva'ekue
+ID126;Ha’e oguapy;TENSE:PAS_REC;Ha’e oguapýkuri
+ID127;Nde neremoheñóiri;TYPE:AFF;Nde remoheñói
+ID128;Nde neremoheñóiri;TENSE:PAS_REC, TYPE:AFF;Nde remoheñóikuri
+ID129;Nde neremoheñóiri;PERSON:1_PL_INC;Ñande nañamoheñóiri
+ID130;Nde neremoheñóiri;PERSON:3_PL;Ha'ekuéra nomoheñóiri
+ID131;Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke;TYPE:AFF;Ha'e ombotujúmi che ogyke-Ha'e ombyaími che ogyke
+ID132;Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke;TENSE:PAS_REC;Ha'e nombotujúikuri che ogyke-Ha'e nombyaírikuri che ogyke
+ID133;Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke;PERSON:2_SI;Nde nerembotujúimi che ogyke-Nde rembyaírimi che ogyke
+ID134;Ha'e nombotujámi che ogyke-Ha'e nombyaírimi che ogyke;PERSON:1_PL_INC;Ñande nañambotujúimi che ogyke-Ñande nañambyaírimi che ogyke
+ID135;Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke;TENSE:FUT_SIM;Ha'e nombotujumo'ãi che ogyke-Ha'e nombyaimo'ãi che ogyke
+ID136;Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke;TENSE:PAS_PLU;Ha'e nombotujúiva'ekue che ogyke-Ha'e nombyaíriva'ekue che ogyke
+ID137;Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke;PERSON:1_SI, TENSE:FUT_SIM;Che nambotujumo'ãi che ogyke-Che nambyaímo'ãi che ogyke
+ID138;Ore roikómi;PERSON:2_SI;Nde reikómi
+ID139;Ore roikómi;TYPE:NEG;Nde ndereikóimi
+ID140;Ore roikómi;TENSE:PRE_SIM;Ore roiko
+ID141;Ore roikómi;PERSON:1_SI;Che aikómi
+ID142;Oipuru hikuái ka’a ha ho’u terere.;PERSON:1_PL_INC;Ñande jaiporú ka'a ha ja'u terere
+ID143;Oipuru hikuái ka’a ha ho’u terere.;TYPE:NEG;Ha'ekuéra ndoiporúi ka'a ha ndo'úi terere
+ID144;Oipuru hikuái ka’a ha ho’u terere.;PERSON:2_SI;Nde reiporu ka'a ha re'u terere
+ID145;Oipuru hikuái ka’a ha ho’u terere.;TENSE:FUT_SIM;Ha'ekuéra oiporúta ka'a ha ho'úta  terere
+ID146;Ko mombe'upy ohendukákuri chéve che ru;TYPE:NEG;Ko mombe'upy nohendukáikuri chéve che ru
+ID147;Ko mombe'upy ohendukákuri chéve che ru;PERSON:2_SI;Ko mombe'upy ohendukákuri ndéve che ru
+ID148;Ko mombe'upy ohendukákuri chéve che ru;PERSON:2_PL;Ko mombe'upy ohendukákuri peẽme  che ru
+ID149;Ko mombe'upy ohendukákuri chéve che ru;TENSE:FUT_SIM;Ko mombe'upy ohendukáta chéve che ru
+ID150;Ko mombe'upy ohendukákuri chéve che ru;TENSE:PRE_SIM;Ko mombe'upy ohenduka chéve che ru
+ID151;Upérõ (che) añani'aínakuri;TENSE:PRE_SIM;Upérõ (che) añani
+ID152;Upérõ (che) añani'aínakuri;TENSE:FUT_SIM;Upérõ (che) añaníta
+ID153;Upérõ (che) añani'aínakuri;TENSE:PAS_PLU;Upérõ (che) añaniva'ekue
+ID154;Upérõ (che) añani'aínakuri;PERSON:2_SI;Upérõ (nde) reñanireínakuri
+ID155;Upérõ (che) añani'aínakuri;PERSON:1_PL_INC;Upérõ (ore) roñanroínakuri
+ID156;Oikũmbymi hikuái;TENSE:PAS_REC;Oikũmbýkuri hikuái
+ID157;Oikũmbymi hikuái;TENSE:FUT_SIM;Oikũmbýta hikuái
+ID158;Oikũmbymi hikuái;PERSON:1_PL_INC;Ñaikũmbými
+ID159;Oikũmbymi hikuái;PERSON:1_SI;Che aikũmbými
+ID160;Oikũmbymi hikuái;TYPE:NEG;Noikũmbýrimi hikuái
+ID161;Nde nderejapói;TYPE:AFF;Nde rejapo
+ID162;Nde nderejapói;TENSE:PAS_REC, TYPE:AFF;Nde rejapókuri
+ID163;Nde nderejapói;PERSON:1_PL_INC;Ñande ndajajapóikuri
+ID164;Nde nderejapói;PERSON:3_PL;Ha'ekuéra ndojapóikuri
+ID165;Ore rembiapo rojapopa;TENSE:PRE_SIM;Ore rembiapo rojapopa
+ID166;Ore rembiapo rojapopa;PERSON:3_PL;Ha'ekuéra ojapopa hembiapo
+ID167;Ore rembiapo rojapopa;TYPE:NEG;Ore rembiapo ndorojapopái  
+ID168;Ore rembiapo rojapopa;TENSE:FUT_SIM;Ore rembiapo rojapopáta
+ID169;Ore rembiapo rojapopa;TENSE:PAS_PLU;Ore rembiapo rojapopava'ekue
+ID170;Cherasy;TENSE:PAS_REC;Cherasýkuri
+ID171;Cherasy;TENSE:PAS_PLU;Cherasyva'ekue
+ID172;Cherasy;TYPE:NEG;Ndacherasýi
+ID173;Cherasy;ASPECT:IPFV;Cherasy'aína
+ID174;Cherasy;PERSON:2_SI;Nderasy
+ID175;Cherasy;PERSON:3_SI;Hasy
+ID176;Cherasy;PERSON:1_PL_INC;Ñanderasy
+ID177;Cherasy;PERSON:1_PL_EXC;Orerasy
+ID178;Cherasy;PERSON:2_PL;Penderasy
